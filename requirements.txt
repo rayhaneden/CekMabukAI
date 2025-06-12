@@ -1,6 +1,5 @@
 streamlit
 numpy
+opencv-python
 Pillow
-face_recognition
-dlib
 joblib
