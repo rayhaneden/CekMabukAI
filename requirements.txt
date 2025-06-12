@@ -1,0 +1,6 @@
+streamlit
+numpy
+Pillow
+face_recognition
+dlib
+joblib
